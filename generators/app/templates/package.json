@@ -1,6 +1,6 @@
 {
   "name": "<%= projectName %>",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "A Fable-Fuse project",
   "author": "<%= githubUser %>",
   "license": "Apache-2.0",
