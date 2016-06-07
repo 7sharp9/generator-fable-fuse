@@ -1,8 +1,8 @@
 # generator-fable-fuse
 
-[![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Dependency Status][daviddm-image]][daviddm-url]
+[![NPM version][npm-image]][npm-url]  
+[![Build Status][travis-image]][travis-url]  
+[![Dependency Status][daviddm-image]][daviddm-url]  
 > Template for fable |&gt; fuse
 
 ## Installation
