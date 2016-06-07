@@ -1,4 +1,4 @@
-# generator-fable-fuse-generator [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-fable-fuse [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Template for fable |&gt; fuse
 
 ## Installation
@@ -28,9 +28,9 @@ yo fable-fuse
 Apache-2.0 © [7sharp9](http://7sharpnine.com)
 
 
-[npm-image]: https://badge.fury.io/js/generator-fable-fuse-generator.svg
-[npm-url]: https://npmjs.org/package/generator-fable-fuse-generator
-[travis-image]: https://travis-ci.org/7sharp9/generator-fable-fuse-generator.svg?branch=master
-[travis-url]: https://travis-ci.org/7sharp9/generator-fable-fuse-generator
-[daviddm-image]: https://david-dm.org/7sharp9/generator-fable-fuse-generator.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/7sharp9/generator-fable-fuse-generator
+[npm-image]: https://badge.fury.io/js/generator-fable-fuse.svg
+[npm-url]: https://npmjs.org/package/generator-fable-fuse
+[travis-image]: https://travis-ci.org/7sharp9/generator-fable-fuse.svg?branch=master
+[travis-url]: https://travis-ci.org/7sharp9/generator-fable-fuse
+[daviddm-image]: https://david-dm.org/7sharp9/generator-fable-fuse.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/7sharp9/generator-fable-fuse
