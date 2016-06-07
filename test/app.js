@@ -3,7 +3,7 @@ var path = require('path');
 var assert = require('yeoman-assert');
 var helpers = require('yeoman-test');
 
-describe('generator-fable-fuse-generator:app', function () {
+describe('generator-fable-fuse:app', function () {
   before(function () {
     return helpers.run(path.join(__dirname, '../generators/app'))
       .withPrompts({someAnswer: true})
