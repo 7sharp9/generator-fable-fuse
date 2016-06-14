@@ -1,8 +1,8 @@
 {
   "name": "generator-fable-fuse",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Template for fable |> fuse",
-  "homepage": "",
+  "homepage": "https://github.com/7sharp9/generator-fable-fuse",
   "author": {
     "name": "7sharp9",
     "email": "kukulcanenator@googlemail.com",
