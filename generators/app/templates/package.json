@@ -10,7 +10,7 @@
     "url" : "" },
   "devDependencies": {
     "fable-core": "^0.1.5",
-    "fable-fuse": "0.0.1",
-    "fable-import-fetch": "0.0.2"
+    "fable-fuse": "^0.0.2",
+    "fable-import-fetch": "^0.0.2"
   }
 }
